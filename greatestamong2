@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main()
+{
+ int n1,n2;
+  printf("Enter the n1 value: ");
+  scanf("%d",&n1);
+  printf("Enter the n2 value: ");
+  scanf("%d",&n2);
+}
+if(n1>n2)
+ {
+ printf("n1 is greater");
+ }
+else
+  {
+  printf("n2 is greater");
+  }
